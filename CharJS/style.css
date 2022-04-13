@@ -1,0 +1,6 @@
+body{
+    display: flex;
+}
+.chart{
+    width: 50vw;
+}
